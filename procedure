@@ -1,0 +1,12 @@
+⚙️ Installation
+ Clone this repository
+git clone https://github.com/Hashir4m4/House-price-prediction.git
+
+ Navigate into the folder
+cd House-price-prediction
+
+ Install dependencies
+pip install -r requirements.txt
+
+ Run the app
+python app.py
